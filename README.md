@@ -17,7 +17,7 @@ This repository contains a comprehensive analysis of the relationship between tr
 - [`final_analysis_report.md`](https://drive.google.com/file/d/1v9yIKuqcqRAHXSVEj2_5tTtkpJqJn9yK/view?usp=drive_link) - Comprehensive report with all findings and strategic implications
 
 ### Visualizations
-- [`trader_behavior_analysis.png`](https://drive.google.com/file/d/1m7NHVH1w_J3tav5GJ8luXM3GBdgC61YZ/view?usp=drive_link) - Basic visualization output from analysis.py
+- ![image alt](ds_candidate/outputs/trader_behavior_analysis.png) - Basic visualization output from analysis.py
 - ![image alt](ds_candidate/outputs/advanced_trader_behavior_analysis.png) - Advanced visualization output from advanced_analysis.py
 
 ## Key Findings
@@ -59,6 +59,7 @@ The findings suggest that successful traders may be following contrarian strateg
 - **Overall Profit/Loss**: $10.25 million gain
 
 - **Total Number of Trades**: 211,218
+
 
 
 
