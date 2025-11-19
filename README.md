@@ -5,8 +5,8 @@ This repository contains a comprehensive analysis of the relationship between tr
 ## Files in this Repository
 
 ### Data Files
-- `fear_greed_index.csv`[https://drive.google.com/file/d/1ONNBD-4qx-o1A194GvTIs7ns4_nWNCFz/view?usp=drive_link] - Bitcoin market sentiment data (Fear & Greed Index)
-- `historical_data.csv` - Hyperliquid trader transaction data
+- [`fear_greed_index.csv`](https://drive.google.com/file/d/1ONNBD-4qx-o1A194GvTIs7ns4_nWNCFz/view?usp=drive_link) - Bitcoin market sentiment data (Fear & Greed Index)
+- [`historical_data.csv`](https://drive.google.com/file/d/1UQ_zrRXz42Kkst-QIbOlTj4-lWrhZQti/view?usp=drive_link) - Hyperliquid trader transaction data
 
 ### Analysis Scripts
 - `analysis.py` - Main analysis script that produces basic insights and visualizations
@@ -59,3 +59,4 @@ The findings suggest that successful traders may be following contrarian strateg
 - **Overall Profit/Loss**: $10.25 million gain
 
 - **Total Number of Trades**: 211,218
+
