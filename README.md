@@ -5,7 +5,7 @@ This repository contains a comprehensive analysis of the relationship between tr
 ## Files in this Repository
 
 ### Data Files
-- `fear_greed_index.csv` - Bitcoin market sentiment data (Fear & Greed Index)
+- `fear_greed_index.csv`[https://drive.google.com/file/d/1ONNBD-4qx-o1A194GvTIs7ns4_nWNCFz/view?usp=drive_link] - Bitcoin market sentiment data (Fear & Greed Index)
 - `historical_data.csv` - Hyperliquid trader transaction data
 
 ### Analysis Scripts
@@ -57,4 +57,5 @@ The findings suggest that successful traders may be following contrarian strateg
 - **Analysis Period**: 479 days (May 1, 2023 to May 1, 2025)
 - **Total Trading Volume**: $1.19 billion
 - **Overall Profit/Loss**: $10.25 million gain
+
 - **Total Number of Trades**: 211,218
