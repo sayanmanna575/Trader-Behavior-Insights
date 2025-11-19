@@ -45,6 +45,13 @@ ds_candidate/
 ├── ds_report.pdf                  # Final report
 └── README.md                      # This file
 ```
+## Instructions
+
+1. Run `notebook_1.ipynb` for the main analysis
+2. Run `notebook_2.ipynb` for advanced analysis
+3. View outputs in the `outputs/` directory
+4. Generate `ds_report.pdf` with final summarized insights
+   
 ## How to Run the Analysis
 
 1. Ensure you have Python installed with the required packages:
@@ -62,6 +69,14 @@ ds_candidate/
    python advanced_analysis.py
    ```
 
+## Requirements
+
+- Python 3.x
+- pandas
+- numpy
+- matplotlib
+- seaborn
+  
 ## Strategic Implications
 
 The findings suggest that successful traders may be following contrarian strategies, taking advantage of market inefficiencies that arise during periods of fear and uncertainty. This "be fearful when others are greedy" approach appears to be reflected in actual trading behavior on Hyperliquid.
@@ -73,6 +88,7 @@ The findings suggest that successful traders may be following contrarian strateg
 - **Overall Profit/Loss**: $10.25 million gain
 
 - **Total Number of Trades**: 211,218
+
 
 
 
