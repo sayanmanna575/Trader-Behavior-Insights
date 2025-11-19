@@ -33,16 +33,16 @@ Our analysis reveals several counterintuitive patterns:
   
 ## Directory
 ds_candidate/
-├── notebook_1.ipynb               # Main analysis notebook
-├── notebook_2.ipynb               # Advanced analysis notebook
-├── csv_files/                     # Raw data files
-│   ├── fear_greed_index.csv       # Bitcoin market sentiment data
-│   └── historical_data.csv        # Hyperliquid trader data
-├── outputs/                       # Visualization outputs
-│   ├── trader_behavior_analysis.png
-│   └── advanced_trader_behavior_analysis.png
-├── ds_report.pdf                  # Final report
-└── README.md                      # This file
+   ├── notebook_1.ipynb               # Main analysis notebook
+   ├── notebook_2.ipynb               # Advanced analysis notebook
+   ├── csv_files/                     # Raw data files
+      │   ├── fear_greed_index.csv       # Bitcoin market sentiment data
+      │   └── historical_data.csv        # Hyperliquid trader data
+      ├── outputs/                       # Visualization outputs
+      │   ├── trader_behavior_analysis.png
+      │   └── advanced_trader_behavior_analysis.png
+      ├── ds_report.pdf                  # Final report
+      └── README.md                      # This file
 
 ## How to Run the Analysis
 
@@ -72,6 +72,7 @@ The findings suggest that successful traders may be following contrarian strateg
 - **Overall Profit/Loss**: $10.25 million gain
 
 - **Total Number of Trades**: 211,218
+
 
 
 
