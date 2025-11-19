@@ -9,16 +9,16 @@ This repository contains a comprehensive analysis of the relationship between tr
 - [`historical_data.csv`](https://drive.google.com/file/d/1UQ_zrRXz42Kkst-QIbOlTj4-lWrhZQti/view?usp=drive_link) - Hyperliquid trader transaction data
 
 ### Analysis Scripts
-- `analysis.py` - Main analysis script that produces basic insights and visualizations
-- `advanced_analysis.py` - Advanced analysis script with additional metrics and visualizations
+- [`analysis.py`](https://drive.google.com/file/d/1E1OEFG0mbbHod98qQydHIFBHGsSBpeRZ/view?usp=drive_link) - Main analysis script that produces basic insights and visualizations
+- [`advanced_analysis.py`](https://drive.google.com/file/d/1dJ5PxDSDYHQ0bYVAI_6b280W3CtFt9_A/view?usp=drive_link) - Advanced analysis script with additional metrics and visualizations
 
 ### Reports
-- `trader_behavior_analysis_report.md` - Initial findings and insights report
-- `final_analysis_report.md` - Comprehensive report with all findings and strategic implications
+- [`trader_behavior_analysis_report.md`](https://drive.google.com/file/d/1q0GinucWnUS4gYwpf0aSBpvRAzSboIQ_/view?usp=drive_link) - Initial findings and insights report
+- [`final_analysis_report.md`](https://drive.google.com/file/d/1v9yIKuqcqRAHXSVEj2_5tTtkpJqJn9yK/view?usp=drive_link) - Comprehensive report with all findings and strategic implications
 
 ### Visualizations
-- `trader_behavior_analysis.png` - Basic visualization output from analysis.py
-- `advanced_trader_behavior_analysis.png` - Advanced visualization output from advanced_analysis.py
+- [`trader_behavior_analysis.png`](https://drive.google.com/file/d/1m7NHVH1w_J3tav5GJ8luXM3GBdgC61YZ/view?usp=drive_link) - Basic visualization output from analysis.py
+- [`advanced_trader_behavior_analysis.png`](https://drive.google.com/file/d/1OEo55oNfSOWUzcugiztYKulDXc6pKlyU/view?usp=drive_link) - Advanced visualization output from advanced_analysis.py
 
 ## Key Findings
 
@@ -59,4 +59,5 @@ The findings suggest that successful traders may be following contrarian strateg
 - **Overall Profit/Loss**: $10.25 million gain
 
 - **Total Number of Trades**: 211,218
+
 
