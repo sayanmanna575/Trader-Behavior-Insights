@@ -1,1 +1,60 @@
-# Trader-Behavior-Insights
+# Data Science Assignment: Trader Behavior vs Market Sentiment Analysis
+
+This repository contains a comprehensive analysis of the relationship between trader behavior on Hyperliquid and Bitcoin market sentiment.
+
+## Files in this Repository
+
+### Data Files
+- `fear_greed_index.csv` - Bitcoin market sentiment data (Fear & Greed Index)
+- `historical_data.csv` - Hyperliquid trader transaction data
+
+### Analysis Scripts
+- `analysis.py` - Main analysis script that produces basic insights and visualizations
+- `advanced_analysis.py` - Advanced analysis script with additional metrics and visualizations
+
+### Reports
+- `trader_behavior_analysis_report.md` - Initial findings and insights report
+- `final_analysis_report.md` - Comprehensive report with all findings and strategic implications
+
+### Visualizations
+- `trader_behavior_analysis.png` - Basic visualization output from analysis.py
+- `advanced_trader_behavior_analysis.png` - Advanced visualization output from advanced_analysis.py
+
+## Key Findings
+
+Our analysis reveals several counterintuitive patterns:
+
+1. **Trading activity is highest during fearful market periods** and lowest during greedy periods
+2. **Profitability follows a similar pattern**, with traders making more money on average during fearful periods
+3. **Market sentiment and trader behavior are inversely correlated**:
+   - Sentiment vs Volume: -0.274
+   - Sentiment vs Trade Count: -0.247
+   - Sentiment vs Profitability: -0.096
+
+## How to Run the Analysis
+
+1. Ensure you have Python installed with the required packages:
+   ```
+   pip install pandas numpy matplotlib seaborn
+   ```
+
+2. Run the main analysis:
+   ```
+   python analysis.py
+   ```
+
+3. Run the advanced analysis:
+   ```
+   python advanced_analysis.py
+   ```
+
+## Strategic Implications
+
+The findings suggest that successful traders may be following contrarian strategies, taking advantage of market inefficiencies that arise during periods of fear and uncertainty. This "be fearful when others are greedy" approach appears to be reflected in actual trading behavior on Hyperliquid.
+
+## Data Overview
+
+- **Analysis Period**: 479 days (May 1, 2023 to May 1, 2025)
+- **Total Trading Volume**: $1.19 billion
+- **Overall Profit/Loss**: $10.25 million gain
+- **Total Number of Trades**: 211,218
